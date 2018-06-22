@@ -1,0 +1,35 @@
+[33mcommit 1e695edcbc4eceb962f2c2d5010bcbee83cf32ee[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: CAIOPHILLIPE-CA\Caio Phillipe <cppdesouza@icloud.com>
+Date:   Thu Jun 21 22:43:17 2018 -0300
+
+    Adicionando plutão na lista de planetas e Nami na lista de personagens
+
+[33mcommit 0d87cbce812c373d7b4e87e5efd66d08d7acf41f[m[33m ([m[1;32mnovaBranch[m[33m)[m
+Author: CAIOPHILLIPE-CA\Caio Phillipe <cppdesouza@icloud.com>
+Date:   Wed Jun 13 15:31:31 2018 -0300
+
+    Adicionando o planeta Venus
+
+[33mcommit 3f59601d182cb0a963dd0c16f143e1a68c54b088[m
+Author: CAIOPHILLIPE-CA\Caio Phillipe <cppdesouza@icloud.com>
+Date:   Wed Jun 13 15:09:13 2018 -0300
+
+    Exercício 1 do curso de Git
+
+[33mcommit 6b0e583e462b9e53f9627fbcd55ad971959770b0[m
+Author: CAIOPHILLIPE-CA\Caio Phillipe <cppdesouza@icloud.com>
+Date:   Wed Jun 13 14:55:07 2018 -0300
+
+    Editado o arquivo de personagens e criado o arquivo de planetas
+
+[33mcommit ee78ac97c6c08283db3c06c520d4a76c5918b2d5[m
+Author: CAIOPHILLIPE-CA\Caio Phillipe <cppdesouza@icloud.com>
+Date:   Wed Jun 13 14:43:33 2018 -0300
+
+    Adicionando o README.md
+
+[33mcommit 6047a1351b8da9922eb19461bf9ae14f8d493707[m
+Author: CAIOPHILLIPE-CA\Caio Phillipe <cppdesouza@icloud.com>
+Date:   Wed Jun 13 14:28:00 2018 -0300
+
+    Criacao do arquivo de personagem
